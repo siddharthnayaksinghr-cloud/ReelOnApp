@@ -1,0 +1,66 @@
+<p align="center">
+  <img src="asset/ReelOn logo png" width="120" height="120" alt="ReelOn App Logo">
+</p>
+
+<h1 align="center">ReelOn App</h1>
+
+---
+
+## 📘 Table of Contents
+
+- [Local Development](#local-development)
+- [Testing on browsers in simulators and emulators](#testing-on-browsers-in-simulators-and-emulators)
+- [Running The Tests](#running-the-tests)
+- [Debugging](#debugging)
+- [App Structure and Conventions](#app-structure-and-conventions)
+- [HybridApp](#hybridapp)
+- [Philosophy](#philosophy)
+- [Security](#security)
+- [Internationalization](#internationalization)
+- [Deploying](#deploying)
+
+---
+
+## 📚 Additional Reading
+
+- [API Details](#api-details)
+- [Offline First](#offline-first)
+- [Contributing to ReelOnApp](#contributing-to-reelonapp)
+- [ReelOnApp Code of Conduct](#reelonapp-code-of-conduct)
+- [Contributor License Agreement](#contributor-license-agreement)
+
+---
+
+### 💡 About ReelOnApp
+**ReelOnApp** is a modern social media platform designed to share short videos, connect users, and explore trending content.  
+Built with React Native for a seamless hybrid experience across Android and iOS.
+
+---
+
+### 🛠️ Tech Stack
+- React Native  
+- Firebase  
+- Node.js (Backend)  
+- Expo / Codemagic for build automation  
+
+---
+
+### 🚀 Setup Instructions
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/ReelOnApp.git
+
+# Navigate into the project folder
+cd ReelOnApp
+
+# Install dependencies
+npm install
+
+# Run the app
+npm start---
+
+💬 **Note:**  
+👉 Make sure your logo file path and name are *exactly correct* (case-sensitive).  
+If your logo file is actually named something like `ReelOn logo.png`, rename it to something simpler (for example):and update the line in README:
+```markdown
+<img src="asset/reelon_logo.png" width="120" height="120" alt="ReelOn App Logo">
